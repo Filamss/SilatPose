@@ -1,0 +1,4 @@
+# Folder yang ingin dikecualikan dari Git
+dataset/
+model/
+csv/
